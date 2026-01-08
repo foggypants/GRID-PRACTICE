@@ -1,0 +1,13 @@
+Bollywood Blockbuster | Profit: 75000000 | ROI: 150.0% | Status: BLOCKBUSTER HIT
+Movie A | Profit: 140000000 | ROI: 233.33% | Status: BLOCKBUSTER HIT
+Movie B | Profit: 95000000 | ROI: 118.75% | Status: BLOCKBUSTER HIT
+Movie C | Profit: -30000000 | ROI: -33.33% | Status: FLOP
+Movie D | Profit: 55000000 | ROI: 137.5% | Status: BLOCKBUSTER HIT
+Movie E | Profit: 2000000 | ROI: 2.86% | Status: AVERAGE
+Movie F | Profit: -20000000 | ROI: -16.67% | Status: FLOP
+Movie G | Profit: 120000000 | ROI: 400.0% | Status: BLOCKBUSTER HIT
+Movie H | Profit: -2000000 | ROI: -4.0% | Status: FLOP
+Movie I | Profit: 70000000 | ROI: 350.0% | Status: BLOCKBUSTER HIT
+Movie J | Profit: 150000000 | ROI: 150.0% | Status: BLOCKBUSTER HIT
+Movie K | Profit: -30000000 | ROI: -50.0% | Status: FLOP
+Movie L | Profit: 85000000 | ROI: 188.89% | Status: BLOCKBUSTER HIT

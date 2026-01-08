@@ -1,0 +1,25 @@
+a=input("Enter product name: ")
+b=float(input("Enter product price: "))
+c=int(input("Enter product quantity: "))
+d=bool(int(input("Are you a member(1 for yes, 0 for no): ")))
+f=b*c
+print("-----------SHOPPING BILL--------------")
+print("Product name:", a)
+print("Product price:", b)
+print("Product quantity:", c)
+print("Total price:", )
+if d==True:
+    print("Member: Yes")
+    f=f*0.9
+    print("Discount applied: 10%")
+    print("Discounted price:",f)
+else:
+    print("Member: No") 
+    print("No discount applied.")
+    print("Final price:",f)
+print("----------DATA TYPES-----------")
+print("Type of Product:", type(a))
+print("Type of Price:", type(b))
+print("Type of Quantity:", type(c))
+print("Type of Member status:", type(d))
+print("Type of Final Price:", type(f))
