@@ -1,0 +1,15 @@
+header {
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 50px auto auto auto auto auto; 
+    gap: 15px;
+}
+.container div{
+    background-color: rgb(238, 238, 238);
+}
