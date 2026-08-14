@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Gridtask8</title>
+        <link rel="stylesheet" href="styles8.css">
+    </head>
+    <body>
+        <header>grids test</header>
+        <div class="container">
+    <div>
+        <p>What problem does auto-fit solve?</p>
+        <p>It automatically creates as many columns as can fit in the row based on the available space, removing the need to manually set column counts.</p>
+    </div>
+
+    <div>
+        <p>Why is minmax important?</p>
+        <p>It sets a safety limit by defining a minimum width (e.g., 200px) so items don't get too small, while allowing them to grow to 1fr to fill extra space.</p>
+    </div>
+
+    <div>
+        <p>Do items shrink too much?</p>
+        <p>No, because the 'min' value in minmax prevents them from shrinking below your specified limit; instead, they wrap to the next row.</p>
+    </div>
+
+    <div>
+        <p>Is this layout mobile friendly?</p>
+        <p>Yes, it is perfectly mobile-friendly because the columns automatically stack vertically once the screen width becomes narrower than the minimum item width.</p>
+    </div>
+
+    <div>
+        <p>Why are media queries not needed here?</p>
+        <p>The browser does all the calculation and wrapping automatically based on the minmax rules, making the layout responsive by default.</p>
+    </div>
+    
+</div>
+    </body>
+</html>
